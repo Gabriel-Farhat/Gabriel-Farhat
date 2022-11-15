@@ -1,5 +1,5 @@
 ## Oiii eu sou a Gabriel Farhat, criador de conteúdo de programação e tecnologia!
-<div align="center">
+<div>
   <a href="https://github.com/Follzer">
   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=Follzer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Follzer&layout=compact&langs_count=7&theme=dracula"/>
